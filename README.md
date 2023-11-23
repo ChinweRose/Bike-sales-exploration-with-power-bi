@@ -18,7 +18,7 @@ This analysis aims to provide insights into the sales performance of ABC Bike Co
 
 ### Data Sources
 
-Sales Data: The data source used for this analysis is the "bike_sales.csv" file containing detailed information about each sale made by the company.
+Sales Data: The data source used for this analysis is the "bike_sales.exe" file containing detailed information about each sale made by the company.
 
 ### Tools
 
