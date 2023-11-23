@@ -9,11 +9,6 @@ This analysis aims to provide insights into the sales performance of ABC Bike Co
 
 
 
-### Below is one of the sales dashboard reports showcasing the insights derived from the bike sales analysis
-
-![Bike sales viz-2](https://github.com/ChinweRose/Bike-sales-exploration-with-power-bi/assets/103608228/34a91023-64c3-4baa-8b1f-82e5aea9f7c2)
-
-
 
 
 ### Data Sources
