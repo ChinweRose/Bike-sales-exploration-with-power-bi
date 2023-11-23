@@ -7,6 +7,15 @@
 
 This analysis aims to provide insights into the sales performance of ABC Bike Company for the month of December 2021. I'll draw out trends, patterns, and conclusions from the data that has been recorded and make valuable decisions that will boost the company's performance.
 
+
+
+### Below is one of the sales dashboard reports showcasing the insights derived from the bike sales analysis
+
+![Bike sales viz-2](https://github.com/ChinweRose/Bike-sales-exploration-with-power-bi/assets/103608228/34a91023-64c3-4baa-8b1f-82e5aea9f7c2)
+
+
+
+
 ### Data Sources
 
 Sales Data: The data source used for this analysis is the "bike_sales.csv" file containing detailed information about each sale made by the company.
@@ -15,7 +24,7 @@ Sales Data: The data source used for this analysis is the "bike_sales.csv" file 
 
 - Excel - Data cleaning
 - Power bi - Creating reports
-  
+
 
 ### Data Cleaning/Preparation
 
